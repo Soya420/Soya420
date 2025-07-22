@@ -24,6 +24,7 @@
 
 ## 📫 How to reach me
 
-You can contact me via email at areitz22@student.aau.dk or connect with me on LinkedIn:
+You can contact me via email at areitz22@student.aau.dk 
+Or connect with me on LinkedIn:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anders-ask-reitzel/)
 
