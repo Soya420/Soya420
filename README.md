@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Anders Reitzel
+#### I'm a Danish Developer, studying Medialogy at Aalborg University Copenhagen 🇩🇰
+* I'm currently making games in Godot
 
-<!--
-**Soya420/Soya420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Education
 
-Here are some ideas to get you started:
+- **MSc. Medialogy**  
+  Aalborg University Copenhagen  
+  *Sep. 2025 - Present*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **BSc. Cyber- & Copmuter Engineering**  
+  Aalborg University Copenhagen  
+  *Sep. 2022 - June 2025*
+  
+- **High School, Mathematics A and Programming B**  
+  H. C. Ørsted Gymnasium Lyngby  
+  *Aug. 2017 - Jun. 2020*
+
+## 💻 Skills
+
+- **Languages:** GDScript, Java, Python, C/C++, HTML/CSS, Processing, LaTeX
+- **Tools:** Git/GitHub, Godot 4, Agile Development, Kanban, UML, ML and LLM's, Docker, Blender
+
+
+## 📫 How to reach me
+
+You can contact me via email at areitz22@student.aau.dk or connect with me on LinkedIn:
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anders-ask-reitzel/)
+
