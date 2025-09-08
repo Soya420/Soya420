@@ -5,7 +5,7 @@
 
 <br>
 
-*I'm currently making games in Godot*
+*Currently learning game making in Godot, Unity & Unreal Engine*
 
 <br>
 
