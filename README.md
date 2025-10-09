@@ -5,7 +5,7 @@
 
 <br>
 
-*Currently learning game making in Godot, Unity & Unreal Engine*
+*Currently making games in Unity and Godot (maybe Unreal Engine soon too)*
 
 <br>
 
