@@ -5,7 +5,7 @@
 
 <br>
 
-*Currently making games in Unity and Godot (maybe Unreal Engine soon too)*
+*Currently making games and university projects in Unity and some Godot*
 
 <br>
 
@@ -47,7 +47,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" height="40" alt="processing logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
 </div>
 
 ### **Tools:**
@@ -65,7 +64,7 @@
   <img src="https://cdn.simpleicons.org/blender/F5792A" height="40" alt="blender logo"  />
 </div>
 
-#### Other: *Agile Development, UML, ML & AI & LLMs* 
+#### Other: *Agile Development, UML, ML & AI* 
 
 <br>
 
