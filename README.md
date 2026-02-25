@@ -1,7 +1,9 @@
 <div align="center">
 
 # Hi, I'm Anders Reitzel
-### I'm a Danish Developer, currently studying Medialogy at Aalborg University Copenhagen.
+
+#### I'm a Danish developer, with a passion for coding, game development and artificial intelligence. I am currently studying Medialogy at Aalborg University Copenhagen.
+
 
 <br>
 
@@ -10,18 +12,25 @@
 <br>
 
 ## 🎓 Education
-
-**MSc. Medialogy**  
-  Aalborg University Copenhagen  
-  *Sep. 2025 - Present*
-
-**BSc. Cyber- & Computer Engineering**  
-  Aalborg University Copenhagen  
-  *Sep. 2022 - June 2025*
-
-**High School, Mathematics A and Programming B**  
-  H. C. Ørsted Gymnasium Lyngby  
-  *Aug. 2017 - Jun. 2020*
+<table align="center">
+  <tr>
+  <td align="center" style="border:2px solid #4CAF50;border-radius:8px;padding:10px;">
+      <strong style="font-size:1.3rem;">MSc. Medialogy</strong><br/>
+      <em>Aalborg University (Copenhagen)</em><br/>
+      Sep. 2025 – Present<br/>
+    </td>
+    <td align="center" style="padding:10px;">
+      <strong>BSc. Cyber- & Computer Engineering</strong><br/>
+      <em>Aalborg University (Copenhagen)</em><br/>
+      Sep. 2022 – June 2025<br/>
+    </td>
+    <td align="center" style="padding:10px;">
+      <strong>High School: Mathematics A and Programming B</strong><br/>
+      <em>H. C. Ørsted Gymnasium Lyngby</em><br/>
+      Aug. 2017 - Jun. 2020<br/>
+    </td>
+  </tr>
+</table>
 
 <br>
 
