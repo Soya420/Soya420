@@ -1,11 +1,11 @@
 <div align="center">
 
 # Hi, I'm Anders Reitzel
-### I'm a Danish Developer, studying Medialogy at Aalborg University Copenhagen
+### I'm a Danish Developer, currently studying Medialogy at Aalborg University Copenhagen.
 
 <br>
 
-*Currently making games and university projects in Unity and some Godot*
+*Currently making university projects and games in Unity and Godot.*
 
 <br>
 
@@ -64,13 +64,11 @@
   <img src="https://cdn.simpleicons.org/blender/F5792A" height="40" alt="blender logo"  />
 </div>
 
-#### Other: *Agile Development, UML, ML & AI* 
-
 <br>
 
 ## 📫 Contact
 
-You can contact me via email at areitz22@student.aau.dk  
+You can contact me via my student email: areitz22@student.aau.dk  
 Or connect with me on LinkedIn www.linkedin.com/in/anders-ask-reitzel
 
 </div>
