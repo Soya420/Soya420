@@ -7,7 +7,7 @@
 
 <br>
 
-*Currently making university projects and games in Unity and Godot.*
+*Currently working on my Game Development Startup, making a passion project in Godot.*
 
 <br>
 
